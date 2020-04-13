@@ -1,2 +1,2 @@
-# movie-cow-discord-bot
+# the-movie-cow-discord-bot
 A discord bot that returns information on movies using the OMDb API
