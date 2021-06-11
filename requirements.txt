@@ -16,7 +16,7 @@ python-dotenv==0.12.0
 requests==2.23.0
 six==1.14.0
 urllib3==1.25.8
-websockets==8.1
+websockets==9.1
 win-inet-pton==1.1.0
 wincertstore==0.2
 yarl==1.4.2
